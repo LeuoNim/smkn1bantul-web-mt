@@ -1,0 +1,46 @@
+[
+  {
+    "id": 101,
+    "title": "Kunjungan Industri Jurusan AKL ke Kantor Pajak Pratama",
+    "image": "/images/berita/jurusan/akl-1.jpeg",
+    "majorSlug": "akuntansi-dan-keuangan-lembaga",
+    "excerpt": "Siswa-siswi AKL mendapatkan wawasan langsung mengenai dunia perpajakan dalam kunjungan industri yang edukatif.",
+    "content": "<p>Sebagai bagian dari program pembelajaran berbasis industri, siswa-siswi kelas XI Akuntansi dan Keuangan Lembaga (AKL) melakukan kunjungan ke Kantor Pelayanan Pajak (KPP) Pratama Bantul. Dalam kunjungan ini, mereka belajar secara langsung tentang proses pelaporan pajak, fungsi pajak bagi negara, dan karir di bidang perpajakan. Sesi tanya jawab dengan para ahli pajak menjadi puncak acara yang paling dinanti.</p>",
+    "date": "15 Oktober 2025",
+    "badge": "Kunjungan Industri",
+    "slug": "akl-kunjungan-industri-kpp-pratama"
+  },
+  {
+    "id": 102,
+    "title": "Jurusan RPL Sukses Meluncurkan Aplikasi Absensi Sekolah",
+    "image": "/images/berita/jurusan/rpl-1.jpeg",
+    "majorSlug": "rekayasa-perangkat-lunak",
+    "excerpt": "Sebuah tim dari jurusan RPL berhasil mengembangkan dan meluncurkan aplikasi 'SKANSABA Presensi' untuk internal sekolah.",
+    "content": "<p>Membanggakan! Tim pengembang dari kelas XII Rekayasa Perangkat Lunak (RPL) berhasil menyelesaikan proyek akhir mereka, yaitu sebuah aplikasi absensi berbasis mobile bernama 'SKANSABA Presensi'. Aplikasi ini dirancang untuk memudahkan guru dalam mencatat kehadiran siswa secara digital. Proyek ini menunjukkan kemampuan siswa RPL dalam menerapkan siklus pengembangan perangkat lunak dari analisis kebutuhan hingga implementasi.</p>",
+    "date": "14 Oktober 2025",
+    "badge": "Inovasi",
+    "slug": "rpl-luncurkan-aplikasi-absensi"
+  },
+  {
+    "id": 103,
+    "title": "Mahasiswa DKV Borong Juara di Lomba Desain Poster Nasional",
+    "image": "/images/berita/jurusan/dkv-1.jpeg",
+    "majorSlug": "desain-komunikasi-visual",
+    "excerpt": "Tiga siswa DKV berhasil meraih juara 1, 3, dan Harapan 1 dalam ajang kompetisi desain poster tingkat nasional.",
+    "content": "<p>Jurusan Desain Komunikasi Visual (DKV) kembali mengukir prestasi. Tiga siswanya berhasil memborong piala dalam ajang 'VisualFest 2025', sebuah kompetisi desain poster tingkat nasional. Mengusung tema 'Lingkungan Berkelanjutan', karya-karya mereka dinilai memiliki konsep yang kuat dan eksekusi visual yang memukau. Kemenangan ini menegaskan kualitas pendidikan desain di sekolah kita.</p>",
+    "date": "11 Oktober 2025",
+    "badge": "Prestasi",
+    "slug": "dkv-juara-desain-poster-nasional"
+  },
+  {
+    "id": 104,
+    "title": "Workshop 'Cloud Computing' untuk Siswa TKJ",
+    "image": "/images/berita/jurusan/tkj-1.jpeg",
+    "majorSlug": "teknik-jaringan-komputer-telekomunikasi",
+    "excerpt": "Bekerjasama dengan Amazon Web Services (AWS) Academy, jurusan TKJ mengadakan workshop tentang dasar-dasar komputasi awan.",
+    "content": "<p>Untuk mempersiapkan siswa menghadapi tren teknologi masa depan, jurusan Teknik Komputer dan Jaringan (TKJ) menyelenggarakan workshop 'Introduction to Cloud Computing'. Bekerja sama dengan AWS Academy, acara ini memberikan pemahaman fundamental mengenai layanan cloud, arsitektur, dan keamanannya. Para siswa sangat antusias mengikuti sesi praktik langsung di konsol AWS.</p>",
+    "date": "9 Oktober 2025",
+    "badge": "Workshop",
+    "slug": "tkj-workshop-cloud-computing-aws"
+  }
+]

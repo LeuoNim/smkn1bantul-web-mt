@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "nama": "Muhammad Eksa Arifa",
+    "kejuaraan": "Web Technologies Medallion For Excellence Tingkat LKS Nasional 2024",
+    "peringkat": "Juara 1",
+    "imageUrl": "https://smkn1bantul.sch.id/storage/01JA704QF446RB3B3RCYFH7NEK.PNG"
+  },
+  {
+    "id": 2,
+    "nama": "Siti Nurhaliza",
+    "kejuaraan": "Olimpiade Sains Nasional - Komputer",
+    "peringkat": "Juara 2",
+    "imageUrl": "https://picsum.photos/seed/siti/607/604"
+  },
+  {
+    "id": 3,
+    "nama": "Budi Santoso",
+    "kejuaraan": "Web Design Competition 2025",
+    "peringkat": "Juara 1",
+    "imageUrl": "https://picsum.photos/seed/budi/607/604"
+  },
+  {
+    "id": 4,
+    "nama": "Rina Wijayanti",
+    "kejuaraan": "Lomba Debat Bahasa Inggris",
+    "peringkat": "Juara 3",
+    "imageUrl": "https://picsum.photos/seed/rina/607/604"
+  },
+  {
+    "id": 5,
+    "nama": "Ahmad Zaelani",
+    "kejuaraan": "Kompetisi Animasi Digital",
+    "peringkat": "Harapan 1",
+    "imageUrl": "https://picsum.photos/seed/ahmad/607/604"
+  },
+  {
+    "id": 6,
+    "nama": "Dewi Lestari",
+    "kejuaraan": "Lomba Fotografi Pelajar",
+    "peringkat": "Juara 2",
+    "imageUrl": "https://picsum.photos/seed/dewi/607/604"
+  }
+]

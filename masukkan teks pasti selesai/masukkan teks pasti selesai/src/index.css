@@ -1,0 +1,53 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  background-color: #111827;
+  margin: 0;
+  padding: 0;
+  overflow-x: hidden;
+}
+
+/* Ensure consistent background for all pages */
+.page-background {
+  background-color: #111827;
+}
+
+/* Dark theme form controls */
+:root {
+  color-scheme: dark;
+}
+
+select {
+  background-color: #111827; /* bg-gray-900 */
+  color: #e5e7eb;           /* text-gray-200 */
+  border-color: #374151;     /* border-gray-700 */
+}
+
+select option, select optgroup {
+  background-color: #111827;
+  color: #e5e7eb;
+}
+
+select option:checked {
+  background-color: #1f2937; /* gray-800 */
+  color: #e5e7eb;
+}
+
+/* Scrollbar styling for scrollable cards */
+.custom-scroll::-webkit-scrollbar {
+  width: 10px;
+}
+.custom-scroll::-webkit-scrollbar-track {
+  background: rgba(17,24,39,0.6);
+  border-radius: 9999px;
+}
+.custom-scroll::-webkit-scrollbar-thumb {
+  background: #374151;
+  border-radius: 9999px;
+  border: 2px solid #111827;
+}
+.custom-scroll:hover::-webkit-scrollbar-thumb {
+  background: #4b5563;
+}

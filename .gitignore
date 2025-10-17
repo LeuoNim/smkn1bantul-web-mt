@@ -1,0 +1,47 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Node
+node_modules/
+.npm/
+.pnpm-store/
+
+# Build outputs
+build/
+dist/
+.out/
+.next/
+.vercel/
+.tmp/
+.temp/
+
+# Frontend (React) subproject
+masukkan teks pasti selesai/**/node_modules/
+masukkan teks pasti selesai/**/build/
+masukkan teks pasti selesai/**/dist/
+masukkan teks pasti selesai/**/.cache/
+masukkan teks pasti selesai/**/public/images/berita/
+masukkan teks pasti selesai/**/public/images/laporan/
+
+# Backend (Laravel) subproject
+backend-sekolah-mt/vendor/
+backend-sekolah-mt/.env
+backend-sekolah-mt/.env.*
+backend-sekolah-mt/storage/
+backend-sekolah-mt/public/storage/
+
+# Archives / OS metadata
+*.zip
+__MACOSX/
+
+# OS / Editor
+.DS_Store
+Thumbs.db
+*.swp
+.vscode/
+.idea/
